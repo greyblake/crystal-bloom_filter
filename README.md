@@ -1,3 +1,3 @@
 # Bloom Filter for Crystal
 
-The project moved to organization: [crystalium/bloom_filter](https://github.com/crystalium/bloom_filter)
+The project moved to organization: https://github.com/crystal-community/bloom_filter
